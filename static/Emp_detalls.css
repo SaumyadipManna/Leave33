@@ -1,0 +1,45 @@
+.from_databace{
+    width: 1300px;
+    height: 500px;
+    margin: auto;
+    margin-top: 50px;
+    background-color: azure;
+    border: 2px solid rebeccapurple; 
+    border-collapse: collapse;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.row{
+    width: 1300px;
+    margin: auto;
+    text-align: center; 
+}
+
+.col{
+    border: 2px solid rebeccapurple;
+    text-align: center;
+}
+.col-1{
+    border: 2px solid rebeccapurple;
+    text-align: center;
+}
+#My_row{
+    height: 40px;
+    border: 2px solid rebeccapurple;
+    margin-top: 10px;
+}
+#My_row strong{
+    font-size: 25px;
+    margin-top: 5px;
+}
+tr{
+    border: 2px solid rebeccapurple;
+    text-align: center;
+}
+td{
+    border: 2px solid rebeccapurple;
+}
+th{
+    border: 2px solid rebeccapurple;
+    text-align: center;
+}

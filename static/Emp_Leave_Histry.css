@@ -1,0 +1,106 @@
+.me-2 {
+    margin-right: 0.5rem !important;
+    border-radius: 30px;
+    width: 300px;
+    border: 2px solid green;
+    margin-top: 10px;
+}
+button:not(:disabled), [type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled) {
+    cursor: pointer;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+input, button, select, optgroup, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    border-radius: 10px;
+}
+.date{
+    margin-top: 10px;
+    /* float: right; */
+    font-size: 20px;
+}
+#date span{
+    /* float: right; */
+    float: left;
+    font-size: 23px;
+}
+#S_By_D{
+    margin-bottom: 10px;
+}
+.d-flex {
+    display: flex !important;
+    width: 400px;
+    margin-bottom: 10px;
+    float: right;
+    font-size: 55px;
+}
+.from_databace {
+    width: 1100px;
+    height: 500px;
+    margin: auto;
+    margin-top: 50px;
+    background-color: azure;
+    border: 2px solid rebeccapurple;
+}
+/* .from_databace{
+    width: 1110px;
+    height: 500px;
+    margin: auto;
+    margin-top: 70px;
+    background-color: azure;
+    border: 2px solid rebeccapurple;
+} */
+th{
+    border: 2px solid rebeccapurple;
+    text-align: center;
+}
+tr{
+    border: 2px solid rebeccapurple;
+    text-align: center;
+}
+td{
+    border: 2px solid rebeccapurple;
+}
+h4, .h4 {
+    font-size: 1.5rem;
+    width: 175px;
+    text-align: center;
+    border: 2px solid rebeccapurple;
+    margin: auto;
+} 
+table{
+    table-layout: fixed;
+    text-align: center;
+}
+#My_row strong {
+    font-size: 20px;
+    margin-top: -2px;
+}
+#My_row{
+    height: 40px;
+    border: 2px solid rebeccapurple;
+    margin-top: 10px;
+} 
+#My_row strong{
+    font-size: 25px;
+    margin-top: 5px;
+}
+
+#My_row {
+    height: 40px;
+    border: 2px solid rebeccapurple;
+    margin-top: 119px;
+    margin-left: 0px;
+    width: 1100px;
+}
+
+#My_row strong {
+    width: 300px;
+    font-size: 25px;
+    margin-top: 5px;
+    margin-left: 382px;
+}

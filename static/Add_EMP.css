@@ -1,0 +1,95 @@
+*{
+    font-size: 15px;
+    font-family: 'Baloo Bhai 2', cursive;
+    margin-bottom:10px ;
+ } 
+#cont{
+    box-sizing: border-box;
+    border: 5px solid #3a3935;
+    height: 920vh;
+    margin-top: auto;
+    background:url('LoginPage_BG.jpg');
+    background-attachment:local;
+    background-repeat: no-repeat;
+    background-size:cover; 
+    filter: invert(-50%);
+    
+}
+#chead{
+    margin-top: 50px;
+    text-align: center;
+    color: aqua;
+}
+
+#MYID1{
+    margin: 5px;
+    float: left;
+    width: 500px;
+    display: flex;
+    color: aqua;
+    /* display: block; */
+    /* background-color: aqua; */
+    /* border: 2px solid rebeccapurple; */
+}
+
+
+#MYID1 table{
+    margin-top: 30px;
+    margin-left: 200px;
+}
+#MYID2 table{
+    margin-top: 30px;
+}
+
+#MYID2{
+    color: aqua;
+    margin: 5px;
+    float: right;
+    width: 500px;
+    display: flex;
+    /* display: block; */
+    /* background-color: aqua; */
+    /* border: 2px solid rebeccapurple; */
+}
+#MYID3{
+    margin: auto;
+    color: aqua;
+    /* display: block; */
+    width: 800px;
+    /* background-color: aqua; */
+    /* border: 2px solid rgb(121, 4, 238); */
+    display: flex;
+}
+#MYID3 table{
+    margin-left:290px ;
+    /* margin-top: 20px; */
+}
+
+#MYID4{
+    margin-top: 40px;
+    margin-left:115px ;
+}
+
+#submit{
+    margin-left: -60px;
+}
+#reset{
+    margin-left: 40px;
+}
+
+#submit input{
+    margin-left: 15px;
+    margin-right: 15px;
+    text-decoration: none;
+    color: #5c1a09;
+    background-color: #ffc107;
+    border: #ffc107;
+}
+#reset input{
+    margin-left: 15px;
+    margin-right: 15px;
+    text-decoration: none;
+    color: #8d0909;
+    background-color: #0dcaf0;;
+    border: #0dcaf0;
+}

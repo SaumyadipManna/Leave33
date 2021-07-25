@@ -1,0 +1,150 @@
+#send input{
+    /* text-decoration: none; */
+    color: #5c1a09;
+    background-color: #ffc107;
+    border: #ffc107;
+    margin-right: 15px;
+}
+#reset input{
+    /* text-decoration: none; */
+    color: #8d0909;
+    background-color: #0d6efd;
+    border: #0d6efd;
+}
+
+.from_databace{
+    width: 1110px;
+    height: 500px;
+    margin: auto;
+    margin-top: 50px;
+    background-color: azure;
+    border: 2px solid rebeccapurple;
+}
+.decision{
+    margin-top: 300px;
+    width: 500px;
+    margin: auto;
+}
+.decision button{
+    width: 200px;
+}
+
+#reset{
+    float: right;
+    background-color:#0d6efd ;
+    margin-top: 20px;
+}
+#send{
+    margin-top: 20px;
+    float: left; 
+}
+.row{
+    width: 1110px;
+    margin: auto;
+    text-align: center;
+    
+}
+
+.col{
+    border: 2px solid rebeccapurple;
+    /* text-align: center; */
+}
+/* .col-1{
+    border: 2px solid rebeccapurple;
+    text-align: center;
+}  */
+/* .btn-success{
+    width: 65px;
+    margin-left:0px;
+} */
+/* #btn-2 {
+    text-decoration: none;
+    box-sizing: border-box;
+    width: 65px;
+    margin-right: 0px;
+    float: right;
+    margin-top: 0px;
+} */
+/* #btn-1{
+    text-decoration: none;
+    box-sizing: border-box;
+    margin-left: -10px;
+    float: left;
+    margin-top: 0px;
+    background-color:#3cca3c;
+    border-radius: 2px;
+} */
+#btn-1 input{
+    border: none;
+    background-color:#3cca3c;
+}
+#btn-1 button{
+    width: 70px;
+    text-decoration: none;
+    background-color:#3cca3c;
+    margin-left: 4px;
+    padding: 2px;
+}
+#btn-2 button{
+    width: 72px;
+    border-radius: 2px;
+    text-decoration: none;
+    margin-right: 11px;
+    background-color:#ff6464;
+    padding: 2px;
+}
+#btn-2 input{
+    background-color:#ff6464;
+    border: none;
+}
+/* table{
+    table-layout: fixed;
+} */
+/* #col{
+    width: 40px;
+} */
+.btn-0 :placeholder-shown{
+    width: 100px;
+}
+.btn-0 :nth-of-type(){
+    width: 100px;
+}
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    width: 80px;
+}
+tr{
+    border: 2px solid rebeccapurple;
+    text-align: center;
+}
+td{
+    border: 2px solid rebeccapurple;
+}
+th{
+    border: 2px solid rebeccapurple;
+    text-align: center;
+}
+#My_row{
+    height: 40px;
+    border: 2px solid rebeccapurple;
+    margin-top: 10px;
+}
+#My_row strong{
+    font-size: 25px;
+    margin-top: 5px;
+}
+#btn-2 input {
+    background-color: #ff6464;
+    border: none;
+    width: 68px;
+    border-radius: 2px;
+}
+
+#btn-1 input {
+    background-color: #3cca3c;
+    border: none;
+    width: 66px;
+}

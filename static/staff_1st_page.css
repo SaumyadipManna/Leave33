@@ -1,0 +1,74 @@
+#staff{
+    box-sizing: border-box;
+    border: 5px solid #3a3935;
+    /* height: 150vh; */
+    margin-top: auto;
+    background:url('LoginPage_BG.jpg');
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size:cover; 
+    filter: invert(-50%);
+}
+
+#reason{
+    border-radius: 0px;
+    width: 900px;
+    margin: auto;
+}
+
+#D-Box{
+    border-radius: 0px;
+    width: 900px;
+    margin: auto;
+}
+#R-staff{
+    width: 900px;
+    margin: auto;
+    color: aqua;
+}
+#name{
+    width: 900px;
+    margin: auto;
+    color: aqua;
+}
+#date{
+    width: 900px;
+    margin: auto;
+    color: aqua;
+}
+.send{
+    margin-top: 30px;
+    padding: 10px;
+    text-align: center;
+}
+.send button{
+    width: 200px;
+}
+#send{
+    margin-right: 15px;
+}
+
+#main{
+    box-sizing: border-box;
+    padding: 10px;
+}
+.head{
+    text-align: center;
+    /* margin-bottom: 10px; */
+    margin-top: 20px;
+    color: aqua;
+}
+#send input{
+    /* text-decoration: none; */
+    color: #5c1a09;
+    background-color: #ffc107;
+    border: #ffc107;
+    margin-right: 15px;
+}
+#reset input{
+    /* text-decoration: none; */
+    color: #8d0909;
+    background-color: #0d6efd;
+    border: #0d6efd;
+}
+
